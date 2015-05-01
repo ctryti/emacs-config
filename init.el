@@ -38,7 +38,7 @@
     ("ansi-term" "*ansi-term*"
      (lambda nil
        (ansi-term shell-pop-term-shell)))))
- '(shell-pop-term-shell "/bin/zsh"))
+ '(shell-pop-term-shell "/bin/bash"))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
