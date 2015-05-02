@@ -10,7 +10,7 @@
 (require 'setup-communication)
 (require 'setup-convenience)
 (require 'setup-data)
-;;(require 'setup-development)
+(require 'setup-development)
 (require 'setup-editing)
 (require 'setup-environment)
 (require 'setup-external)
